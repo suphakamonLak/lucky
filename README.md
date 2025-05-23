@@ -14,10 +14,10 @@ I'm a junior full-stack developer passionate about building clean, maintainable,
 - Supabase
 - vercel
 
-  ### 📫 How to reach me
+### 📫 How to reach me
 - Email: suphakamonlakkhasorn@gmail.com
 - Location: Bangkok, Thailand
  
 ---
 
-📚 Always open to collaboration and new opportunities!
+📚 Always open to collaboration and new opportunities 
